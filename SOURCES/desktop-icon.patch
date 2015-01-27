@@ -1,0 +1,11 @@
+--- a/sublime_text_3/sublime_text.desktop
++++ b/sublime_text_3/sublime_text.desktop
+@@ -7,7 +7,7 @@
+ Exec=/opt/sublime_text/sublime_text %F
+ Terminal=false
+ MimeType=text/plain;
+-Icon=sublime-text
++Icon=/usr/share/icons/hicolor/256x256/apps/sublime-text.png
+ Categories=TextEditor;Development;
+ StartupNotify=true
+ Actions=Window;Document;
