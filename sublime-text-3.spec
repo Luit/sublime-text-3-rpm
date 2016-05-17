@@ -2,9 +2,9 @@
 
 Name:    sublime-text-3
 Summary: Sublime Text 3.
-Version: 3103
+Version: 3114
 Release: 1%{?dist}
-Source:  http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_3103_x64.tar.bz2
+Source:  http://c758482.r82.cf2.rackcdn.com/sublime_text_3_build_3114_x64.tar.bz2
 Patch0:  desktop-icon.patch
 
 Group:   Development/Editors
